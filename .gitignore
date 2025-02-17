@@ -1,0 +1,23 @@
+# кэш каталогов
+Thumbs.db
+*.DS_Store
+*.empty
+
+# файлы проектов vscode
+.vscode
+
+# файлы проектов phpstorm
+.idea
+*.iml
+
+# файлы проектов netbeans
+nbproject
+
+# файлы проектов eclipse, zend studio, aptana и другие
+.buildpath
+.project
+.settings
+
+# файлы composer
+composer.phar
+composer.lock
