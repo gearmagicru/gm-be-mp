@@ -1,0 +1,26 @@
+{
+    "name": "gearmagicru/gm-be-mp",
+    "description": "Control Panel module \"Marketplace\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "marketplace"],
+    "homepage": "https://apps.gearmagic.ru/component/gm-be-mp",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://gearmagic.ru"
+        }
+    ],
+    "require": {
+        "gearmagicru/gm-composer-plugin": "*"
+    },
+    "extra": {
+        "gm": {
+            "id": "gm.be.mp",
+            "vendor": "gm"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
