@@ -1,7 +1,7 @@
 {
     "name": "gearmagicru/gm-be-mp",
-    "description": "Control Panel module \"Marketplace\"",
-    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "marketplace"],
+    "description": "Control Panel module \"Application Marketplace\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "gm-marketplace", "module"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-mp",
     "type": "component",
     "license": "MIT",
