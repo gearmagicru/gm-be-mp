@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-mp/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Модуль панели управления "Маркетплейс"
+# <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-mp/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Модуль панели управления "Маркетплейс приложений"
 
-Модуль Маркетплейса устанавливает готовые решения (компоненты, темы и т.д.) для веб-приложения GearMagic.
+Модуль Маркетплейса приложений устанавливает готовые решения (компоненты, темы и т.п.) для веб-приложения GearMagic.
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/gearmagicru/gm-be-mp.svg)](https://packagist.org/packages/gearmagicru/gm-be-mp)
 [![Total Downloads](https://img.shields.io/packagist/dt/gearmagicru/gm-be-mp.svg)](https://packagist.org/packages/gearmagicru/gm-be-mp)
